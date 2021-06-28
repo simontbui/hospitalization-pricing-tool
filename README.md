@@ -1,4 +1,5 @@
-# hospitalization-pricing-tool
+# Hospitalization Pricing Tool for New York
+
 
 ##  DESCRIPTION 
 The app for New York State Health Costs Recommendations is a Node.js app that displays projected costs per county, and per hospital in the state of New York. The main idea is for the user to be able learn more about costs for a potential health procedure done in the hospital. 
