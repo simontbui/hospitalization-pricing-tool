@@ -2,7 +2,7 @@
 
 
 ##  DESCRIPTION 
-This was a team project for CSE 6242 (Data & Visual Analytics) for Georgia Tech's MS in Analytics program. Team members were: Simon Bui, Anna Podgornyak, Ying Wang, David Despres. We took a massive 
+This was a team project for CSE 6242 (Data & Visual Analytics) for Georgia Tech's MS in Analytics program. Team members were: Simon Bui, Anna Podgornyak, Ying Wang, David Despres. We took a 2.34m row EHR dataset with 34 attributes from the state of NY to clean and transform on GCP. Regression models were then built in an attempt to estimate hospitalization costs. An interactive UI was then built off of this.
 
 The app for New York State Health Costs Recommendations is a Node.js app that displays projected costs per county, and per hospital in the state of New York. The main idea is for the user to be able learn more about costs for a potential health procedure done in the hospital. 
 Unlike many commercial products where the user is able to find out the cost before purchasing, health services may very in costs depending on area of the hospital, type of procedure and other factors leaving the customers in the unknown on how much they will pay at the end of the services.
@@ -82,3 +82,6 @@ Explore different conditions and filtering on your own.
 
 ## FINAL DEMO 
 https://youtu.be/9KseNwZ8WUo
+
+## Sample Images
+![Alt text](https://puu.sh/HSgQy/b67010de5d.png)
