@@ -1,6 +1,6 @@
 # hospitalization-pricing-tool
 
-DESCRIPTION - 
+##  DESCRIPTION 
 The app for New York State Health Costs Recommendations is a Node.js app that displays projected costs per county, and per hospital in the state of New York. The main idea is for the user to be able learn more about costs for a potential health procedure done in the hospital. 
 Unlike many commercial products where the user is able to find out the cost before purchasing, health services may very in costs depending on area of the hospital, type of procedure and other factors leaving the customers in the unknown on how much they will pay at the end of the services.
 With easy to navigate user interface, our team gives the user an opportunity to filter on their condition, age and gender to find the cost of the procedure and able to choose the hospital.
@@ -14,7 +14,7 @@ The predict folder contains the jupyter notebook that analyzes data, runs the al
 
 
 
-INSTALLATION - How to install and setup your code
+## INSTALLATION
 
 The Jupyter notebook used to ran all the modeling and cleaning of the data was run on Google Cloud in order to avoid large data processing on local machine, increasing the speed of processing. Notebook can be exported to Google Cloud and ran there. 
 
@@ -68,7 +68,7 @@ http://127.0.0.1:8080
 Voila, you are done!
 
 
-EXECUTION - How to run a demo on your code
+## EXECUTION 
 
 Once you open the demo, the screen on the left displays 3 different filters: condition, gender, age group.
 The first selection is made for condition. Once the condition is choosen, the map will change the color according to the cost for the county for that condition. 
@@ -77,4 +77,5 @@ Lastly, if you choose the gender and hoover again over a hospital, it will show 
 To reset everything, click the Reset button.
 Explore different conditions and filtering on your own.
 
-FINAL DEMO : https://youtu.be/9KseNwZ8WUo
+## FINAL DEMO 
+https://youtu.be/9KseNwZ8WUo
