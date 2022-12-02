@@ -10,7 +10,7 @@ With easy to navigate user interface, our team gives the user an opportunity to 
 
 This package is running on http server, which contains Leaflet(an open-source JavaScript library for interactive maps) and D3 (D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS)
 The data folder contains the data used in the app which are the projections received from the machine learning output. The data for prediction came from http://ace.iime.cloud/sparcs/drg/194. And the NYC hospital data came from https://www.arcgis.com/home/item.html?id=c012aabe95f74f1c978b6b131a6a4d4e. 
-The js forlder contains the javacsript that runs the interactives on the map.
+The js folder contains the javacsript that runs the interactives on the map.
 The css and img are decorative images and styles used in the app.
 The index.html contains the html to display the content of the app.
 The predict folder contains the jupyter notebook that analyzes data, runs the algorithms and outputs the predict.csv located in data folder.
