@@ -82,10 +82,3 @@ Explore different conditions and filtering on your own.
 
 ## FINAL DEMO 
 https://youtu.be/9KseNwZ8WUo
-
-## Sample Images
-![Alt text](https://puu.sh/HSgQy/b67010de5d.png)
-![Alt text](https://puu.sh/HSgRN/32868d89f9.png)
-
-## Disclaimer
-This project was sparked out of interest and is intended to be a proof of concept. For more meaningful outputs, descriptive statistics would be more useful than regression/modeling approaches.
