@@ -43,7 +43,7 @@ Check that node.js is installed:
 
 Check that npm is installed:
 
-```npm -v````
+```npm -v```
 
 If node and npm are not installed, go here (https://nodejs.org/en/download/)
 
